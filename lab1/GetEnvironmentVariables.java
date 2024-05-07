@@ -3,10 +3,10 @@ import java.util.Properties;
 public class GetEnvironmentVariables {
 
     //  Fill in the path to your sp21-s*** folder between the quotes
-    public static String REPO_DIR = "/Users/jinyinhuacha/study/computer-science/courses/01-cs61b-spring-2021/cs61b";
+    public static String REPO_DIR = "/Users/jinyinhuacha/study/computer-science/courses/01-cs61b-spring-2021/sp21-s1234";
 
     //  Fill in the path to your snaps-sp21-s*** folder between the quotes
-    public static String SNAPS_DIR = "/Users/jinyinhuacha/study/computer-science/courses/01-cs61b-spring-2021/snaps-cs61b";
+    public static String SNAPS_DIR = "/Users/jinyinhuacha/study/computer-science/courses/01-cs61b-spring-2021/snaps-sp21-s1234";
 
     // Fill in the type of your shell by running 'echo $0` in your terminal. It should be zsh or bash.
     public static String SHELL = "zsh";
